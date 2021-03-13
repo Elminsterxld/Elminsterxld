@@ -14,7 +14,7 @@ I am a passionate self-taught programmer from Turkey.
 - 🌱 I’m currently learning PY
 - 💬 Ask me about anything [here](discord://discordapp.com/users/671302260713717760/)
 - 📫 Add Me On Discord? Elminstêr#0007
-**Languages and Tools:** &nbsp;
+**Languages and Tools:**;
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
  
