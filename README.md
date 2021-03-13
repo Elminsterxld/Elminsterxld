@@ -19,7 +19,7 @@ I am a passionate self-taught programmer from Turkey.
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
  
 <p align="center">
-  <div align="center"><img src="https://discord.c99.nl/widget/theme-3/146460913556389888.png"></div>
+  <div align="center"><img src="https://discord.c99.nl/widget/theme-3/671302260713717760.png"></div>
   <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=&theme=dracula&count_private=true"></div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elminstr&theme=radical&hide_langs_below=1&layout=compact&count_private=true" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Elminstr&show_icons=true&theme=radical&line_height=21&count_private=true" alt="Elminstr's github stats"/>
