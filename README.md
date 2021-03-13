@@ -6,6 +6,7 @@
   <img align="left" alt="Elminstr" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Elminstr" alt="Elminstr" /> </p>
 <br />
 
 ### Glad to see you here! 🤩
