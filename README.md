@@ -25,7 +25,7 @@ I am a passionate self-taught programmer from Turkey.
 <br>
 
 <br>
-*PS: I Can Share More Than One Code On Github What Happens Here Does Not Reflect Me!*
+**PS: I Can Share More Than One Code On Github What Happens Here Does Not Reflect Me!**
 
 <br />
   
