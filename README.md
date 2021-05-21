@@ -18,6 +18,8 @@
 
   [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31njk35vtoyg52zcfez74mul3xvm)
 
+  <p align="center">
+  <div align="center"><img src="https://discord.c99.nl/widget/theme-2/764899410144264244.png"></div>
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Elminstr" alt="Elminstr" /></a> </p>
 
