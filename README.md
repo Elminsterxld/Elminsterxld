@@ -14,7 +14,6 @@
   <a href="https://open.spotify.com/user/31njk35vtoyg52zcfez74mul3xvm" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
  <a href="https://www.instagram.com/elminstr" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
  
-  <a href="https://open.spotify.com/user/31njk35vtoyg52zcfez74mul3xvm" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 ## Spotify Playing Now:
 
   [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31njk35vtoyg52zcfez74mul3xvm)
