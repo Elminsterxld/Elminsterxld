@@ -19,6 +19,10 @@
   [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31njk35vtoyg52zcfez74mul3xvm)
 
   
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Elminstr" alt="Elminstr" /></a> </p>
+
+
+
 <p align="center">
   <div align="center"><img src="https://discord.c99.nl/widget/theme-2/764899410144264244.png"></div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elminstr&theme=radical&hide_langs_below=1&layout=compact&count_private=true" />
