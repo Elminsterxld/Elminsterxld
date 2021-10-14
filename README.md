@@ -1,12 +1,11 @@
 ### Hi There, I am Elminstêr 👋
-<a href="https://discordapp.com/users/80825974026928128/">
-  <img align="left" alt="My Discord" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+
 
 <p align="center">
   <img src="https://count.getloli.com/get/@Elminstêrxld?theme=rule34" />
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Elminsterxld" alt="Elminsterxld" /> </p>
+
 <br />
 <p align="center">
  <a href="https://discord.com/users/80825974026928128" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
