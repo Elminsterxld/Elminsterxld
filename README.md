@@ -25,5 +25,3 @@
 
 <br />
   
-⚡ Elminstêrxld <br>
-“Hayatta en büyük lüks yarına dair cümleler kurmaktır. O cümleler yarına ulaştığında ise tek gerçeğin dündür.”
