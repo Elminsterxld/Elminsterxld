@@ -14,12 +14,10 @@
   <a href="https://open.spotify.com/artist/4suy2HjrA8gjyjjTyHwLYX" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
  <a href="https://www.instagram.com/elminsterxld" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
  
-## Spotify Playing Now:
 
-  [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31njk35vtoyg52zcfez74mul3xvm)
 
   <p align="center">
-  <div align="center"><img src="https://discord.c99.nl/widget/theme-2/764899410144264244.png"></div>
+  <div align="center"><img src="https://discord.c99.nl/widget/theme-1/80825974026928128.png"></div>
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Elminsterxld" alt="Elminsterxld" /></a> </p>
 
