@@ -18,6 +18,13 @@
   <p align="center">
   <div align="center"><img src="https://discord.c99.nl/widget/theme-4/80825974026928128.png"></div>
   
+  
+  
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elminsterxld&theme=monokai)
+  
+  
+  
 
 <div><img src="https://github-profile-trophy.vercel.app/?username=Elminsterxld&theme=dracula" width="1200"></div></p>
 
