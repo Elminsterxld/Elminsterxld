@@ -1,10 +1,7 @@
 ### Hi There, I am Elminstêr 👋
 <a href="https://discordapp.com/users/80825974026928128/">
   <img align="left" alt="My Discord" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
- <a href="https://github.com/Elminsterxld">
-  <img align="left" alt="Elminsterxld" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+
 <p align="center">
   <img src="https://count.getloli.com/get/@Elminstêrxld?theme=rule34" />
 </p>
