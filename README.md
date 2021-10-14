@@ -5,6 +5,9 @@
  <a href="https://github.com/Elminsterxld">
   <img align="left" alt="Elminsterxld" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<p align="center">
+  <img src="https://count.getloli.com/get/@Elminstêrxld?theme=rule34" />
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Elminsterxld" alt="Elminsterxld" /> </p>
 <br />
