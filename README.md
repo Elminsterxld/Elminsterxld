@@ -17,7 +17,7 @@
 
 
   <p align="center">
-  <div align="center"><img src="https://discord.c99.nl/widget/theme-1/80825974026928128.png"></div>
+  <div align="center"><img src="https://discord.c99.nl/widget/theme-2/80825974026928128.png"></div>
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Elminsterxld" alt="Elminsterxld" /></a> </p>
 
